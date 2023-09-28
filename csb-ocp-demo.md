@@ -1,4 +1,4 @@
-# Create a app sample CSB[Camel SpringBoot] app
+# Create a sample CSB[Camel SpringBoot] app
  
 Step1: Generate the basic app from archetype
 ```
